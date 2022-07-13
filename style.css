@@ -1869,7 +1869,7 @@ width: 100%;}
 	color: #222;
 }
 .owl-carousel .owl-item .basic-clients img {
-  width: inherit;
+  width: 100px;
 }
 .progress-title {
   font-size: 15px;
@@ -2034,7 +2034,7 @@ a#scrollUp {
 
 
 .portfolio-full .portfolio-item {
-  width: 25%;
+  width: 100%;
 }
 
 
